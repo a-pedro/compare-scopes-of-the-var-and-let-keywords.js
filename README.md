@@ -1,0 +1,1 @@
+# compare-scopes-of-the-var-and-let-keywords.js
